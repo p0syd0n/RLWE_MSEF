@@ -1,0 +1,6 @@
+target/
+venv/
+pubkey.txt
+privkey.txt
+plaintext.txt
+Cargo.lock
