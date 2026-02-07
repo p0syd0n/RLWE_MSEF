@@ -4,3 +4,4 @@ pubkey.txt
 privkey.txt
 plaintext.txt
 Cargo.lock
+ciphertext.txt
